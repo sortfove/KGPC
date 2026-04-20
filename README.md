@@ -1,3 +1,9 @@
+# KGPC: A Medical Dialogue Generation Framework Based on Knowledge Graphs and Schema Constraints
+
+# 基于知识图谱和模式约束的医疗对话生成框架
+
+------
+
 一、多轮对话过程中SOAP的提取
 
 ```
